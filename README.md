@@ -13,7 +13,7 @@ and object-code dump — no working copy is known to have existed in
 digital form before this restoration.
 
 **As far as we can tell, this is the first time this program has run
-in roughly 40 years.**
+in nearly 50 years.**
 
 ## Source material
 
