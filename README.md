@@ -89,13 +89,6 @@ narrow, well-reasoned patch clearly separated from the original code.
   for a genuine functional bug that prevented ship-type confirmation
   from ever succeeding on some systems (see below). This is the
   version worth using to actually *play* the game.
-- **`galaxy_6800.asm`, `galaxy_swtbug.asm`, `galaxy_swtbug.s19`,
-  `galaxy.s19`** — a separate SCELBI-derived Star Trek-style game
-  ("GALAXY") restored and debugged during the same session, included
-  for reference. Documented separately below.
-- **`hexdump.asm`** — a small memory-dump utility written from scratch
-  for the Altair 680b's ACIA-based Turnkey Monitor, used as a
-  diagnostic tool throughout this project.
 
 ## Bugs found
 
